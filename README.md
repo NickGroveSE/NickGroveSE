@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick Grove
 - 👀 I’m interested in Full Stack Development and also love Design. Really enjoy expanding on unique concepts and implementing sleek design.
-- 🌱 I’m currently working on a Vue x Go web app called [Iris](https://nickgrove.netlify.app/projects/IrisDemo) that works with Spotify API.
+- 🌱 I’m currently working on a Vue x Go web app called [Iris](https://github.com/NickGroveSE/IrisDemo) that works with Spotify API.
 - 💞️ I’m looking to collaborate on projects that are exciting and are looking for Front End expertise. My portfolio is not as expansive as many Frontend Devs and Designers out there, but I am great at visualizing the aesthetic/layout of a project while also being imaginative with my design ideas.
 - 📫 How to reach me: email me at nickgrove.se@gmail.com
 
