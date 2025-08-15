@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nick Grove
-- 👀 I am a Full Stack Developer with expertise in Frontend Development and Design. I really enjoy expanding on unique concepts and implementing sleek design.
-- 🌱 Over the last month, I have been working on a Vue x Go web app called Iris, check out the repo for the [Frontend Demo](https://github.com/NickGroveSE/IrisDemo). Currently with this project I am mastering my skills in Go before tackling the Backend, follow my progress here [Golang Mastery](https://github.com/NickGroveSE/GolangMastery)
-- 💞️ I’m looking to collaborate on projects that are exciting and teams that are looking for Frontend expertise. My portfolio is not as expansive as many Frontend Devs and Designers out there, but I am great at visualizing the aesthetic/layout of a project while also being imaginative with my design ideas.
+- 👀 I am a Software Engineer who is building expertise in Business Intelligence & AI.
+- 🌱 Currently, I am a Web Developer & Designer at the Louisville Indoor Racquet Club where I am modernizing their brand and website, maintaining and uploading content, and expanding backend services to create an easier UX for my fellow employees. 
+- 💞️ I am always looking to collaborate on projects that are exciting. I have worked in a wide variety of expertise such as Frontend, Backend (primarily Golang, Java, C++), & Design, and love the challenges that come with bringing a new idea to life.
 - 📫 How to reach me: email me at nickgrove.se@gmail.com
 
 
